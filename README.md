@@ -1,2 +1,2 @@
-Вот это моя страница GidHub
+Вот это моя страница GidHub  
 Site: https://damiramuhtar.github.io/Pages/
